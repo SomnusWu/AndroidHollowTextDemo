@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HollowTextView">
+        <attr name="text" format="string"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="bgColor" format="color"/>
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="roundTopLeft" format="boolean"/>
+        <attr name="roundTopRight" format="boolean"/>
+        <attr name="roundBottomLeft" format="boolean"/>
+        <attr name="roundBottomRight" format="boolean"/>
+    </declare-styleable>
+</resources>
